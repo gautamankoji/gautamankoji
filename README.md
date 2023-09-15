@@ -29,6 +29,8 @@
   &nbsp;
 </a>
 
+ &nbsp;
+
 <a href="https://github.com/gautamankoji/gautamankoji">
   <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/pin/?username=gautamankoji&repo=Compi-Prog&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=400" />
   &nbsp;
@@ -38,6 +40,8 @@
   <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/pin/?username=gautamankoji&repo=static-web-pages&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=400" />
   &nbsp;
 </a>
+
+ &nbsp;
 
 <a href="https://github.com/gautamankoji/gautamankoji">
   <img align="centre" src="https://github-readme-stats2-v2p1.vercel.app/api/wakatime?username=ffflabs&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=300&layout=compact" />
