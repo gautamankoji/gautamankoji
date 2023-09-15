@@ -22,7 +22,12 @@
 <a href="https://github.com/gautamankoji/gautamankoji">
   <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&card_width=850" />
 </a>
+ 
+ &nbsp;
 
+<a href="https://github.com/gautamankoji/gautamankoji">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gautamankoji&background=00000000&currStreakNum=41BB84&sideNums=41BB84&dates=BBBBBB&excludeDaysLabel=41BB84&sideLabels=41BB84&ring=41BB84&stroke=41BB84&currStreakLabel=41BB84&fire=41BB84&border_radius=40&card_width=850" /></p>
+  
  &nbsp;
 
 <a href="https://github.com/gautamankoji/gautamankoji">
@@ -59,10 +64,6 @@
 <hr>
 <br>
 
-<a href="https://github.com/gautamankoji/gautamankoji">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gautamankoji&hide_border=true&background=00000000&currStreakNum=41BB84&sideNums=41BB84&dates=BBBBBB&excludeDaysLabel=41BB84&sideLabels=41BB84&ring=41BB84&stroke=41BB84&currStreakLabel=41BB84&fire=41BB84&border_radius=40&card_width=850" /></p>
-  
-</a>
 
 
 <!---
