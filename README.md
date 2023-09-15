@@ -6,8 +6,8 @@
 
 <br>
 <hr>
-<!-- [![Gautam's GitHub stats]() -->
-[Gautam](https://github-readme-stats.vercel.app/api?username=gautamankoji&show_icons=true&theme=transparent)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <hr>
