@@ -10,7 +10,7 @@
 [![Gautam's GitHub stats](https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&hide=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/gautamankoji/gautamankoji)
 <br>
 <br>
-[![Gautam's GitHub stats](https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe)](https://github.com/gautamankoji/gautamankoji) 
+[![Gautam's GitHub stats](https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40)](https://github.com/gautamankoji/gautamankoji) 
 
 <br>
 <br>
