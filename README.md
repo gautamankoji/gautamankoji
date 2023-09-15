@@ -6,7 +6,8 @@
 
 <br>
 <hr>
-[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamankoji&show_icons=true&theme=transparent)
+<!-- [![Gautam's GitHub stats]() -->
+[Gautam](https://github-readme-stats.vercel.app/api?username=gautamankoji&show_icons=true&theme=transparent)
 
 <br>
 <hr>
