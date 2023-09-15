@@ -8,6 +8,9 @@
 <hr>
 
 [![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamankoji&hide=contribs,prs&show_icons=true&theme=transparent)](https://github.com/gautamankoji/github-readme-stats)
+<br>
+<br>
+[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamankoji&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/gautamankoji/github-readme-stats)
 
 
 <br>
