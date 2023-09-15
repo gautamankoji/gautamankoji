@@ -52,13 +52,10 @@
 ### Leetcode
 
 <a href="https://leetcode.com/gautamankoji" target="_blank">
-  <img align="top" src="https://leetcard.jacoblin.cool/gautamankoji?ext=heatmap&border_radius=40&width=490&font=source_code_pro" />
+  <img align="top" src="https://leetcard.jacoblin.cool/gautamankoji?ext=contest&border_radius=40&width=850&font=source_code_pro" />
      &nbsp;
 </a>
 
-<a href="https://leetcode.com/gautamankoji" target="_blank">
-  <img align="top" src="https://leetcard.jacoblin.cool/gautamankoji?theme=dark&font=Source%20Code%20Pro&ext=contest&border_radius=40&width=490" />
-</a>
 
 
 <!---
