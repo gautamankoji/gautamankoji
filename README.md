@@ -7,7 +7,7 @@
 <br>
 <hr>
 
-[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamankoji)]
+[![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamankoji)](https://github.com/gautamankoji/github-readme-stats)
 
 <br>
 <hr>
