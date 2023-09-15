@@ -20,21 +20,25 @@
 --->
 
 <a href="https://github.com/gautamankoji/gautamankoji">
-  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&card_width=500" />
-  &nbsp;
-</a>
-
-<a href="https://github.com/gautamankoji/gautamankoji">
-  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/pin/?username=gautamankoji&repo=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=500" />
+  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&card_width=750" />
   &nbsp;
 </a>
 
 &nbsp;
 
 <a href="https://github.com/gautamankoji/gautamankoji">
-  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/top-langs/?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=500&langs_count=15" />
+  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/top-langs/?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=750&langs_count=15" />
   &nbsp;
 </a>
+
+&nbsp;
+
+<a href="https://github.com/gautamankoji/gautamankoji">
+  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/pin/?username=gautamankoji&repo=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=750" />
+  &nbsp;
+</a>
+
+&nbsp;
 
 <a href="https://github.com/gautamankoji/gautamankoji">
   <img align="centre" src="https://github-readme-stats2-v2p1.vercel.app/api/wakatime?username=ffflabs&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=300&layout=compact" />
