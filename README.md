@@ -47,16 +47,15 @@
 
 <br>
 <hr>
-
+<!---
 ### Leetcode
-
 <a href="https://leetcode.com/gautamankoji" target="_blank">
   <img align="top" src="https://leetcard.jacoblin.cool/gautamankoji?ext=contest&border_radius=40&width=850&font=source_code_pro" />
      &nbsp;
 </a>
-
 <hr>
 <br>
+--->
 
 
 
