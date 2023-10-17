@@ -1,7 +1,7 @@
   - 👋 Hi, I’m @gautamankoji
 - 👀 I’m interested in Full stack Developing | Ethical Hacking | Compitative Programming | Astrophysics | Astrophile | Designing and Editing | Gaming | Game Development 
-- 🌱 I’m currently learning how to design websites using bootstrap
-- 💞️ I’m looking to collaborate on web design
+- 🌱 I’m currently learning how to identify vulnerabilities using Burp Suite and Wireshark.
+- 💞️ I’m looking to collaborate on cybersecurity projects and initiatives.
 - 📫 How to reach me -> [telegram](https://t.me/herogautam)
 
 <br>
