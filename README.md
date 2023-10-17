@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full stack Developing | Ethical Hacking | Compitative Programming | Designing and Editing | Gaming | Game Development
 - 🌱 I’m currently learning how to design websites using bootstrap
 - 💞️ I’m looking to collaborate on web design
-- 📫 How to reach me -> telegram(https://t.me/herogautam)
+- 📫 How to reach me -> [telegram](https://t.me/herogautam)
 
 <br>
 <hr>
