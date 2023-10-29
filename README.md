@@ -1,4 +1,4 @@
-  - 👋 Hi, I’m @gautamankoji
+- 👋 Hi, I’m @gautamankoji
 - 👀 I’m interested in Full stack Developing | Ethical Hacking | Compitative Programming | Astrophysics | Astrophile | Designing and Editing | Gaming | Game Development 
 - 🌱 I’m currently learning how to identify vulnerabilities using Burp Suite and Wireshark.
 - 💞️ I’m looking to collaborate on cybersecurity projects and initiatives.
@@ -47,15 +47,14 @@
 
 <br>
 <hr>
-<!---
+
 ### Leetcode
 <a href="https://leetcode.com/gautamankoji" target="_blank">
   <img align="top" src="https://leetcard.jacoblin.cool/gautamankoji?ext=contest&border_radius=40&width=850&font=source_code_pro" />
      &nbsp;
 </a>
 <hr>
-<br>
---->
+
 
 
 
