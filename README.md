@@ -36,12 +36,12 @@
 
  &nbsp;
 
-<a href="https://github.com/gautamankoji/gautamankoji">
+<a href="https://github.com/gautamankoji/Compi-Prog">
   <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/pin/?username=gautamankoji&repo=Compi-Prog&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=400" />
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </a>
 
-<a href="https://github.com/gautamankoji/gautamankoji">
+<a href="https://github.com/gautamankoji/static-web-pages">
   <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/pin/?username=gautamankoji&repo=static-web-pages&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=400" />
 </a>
 
