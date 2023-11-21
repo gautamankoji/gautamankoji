@@ -20,10 +20,16 @@
 [![Gautam's GitHub stats](https://github-readme-stats2-v2p1.vercel.app/api/wakatime?username=ffflabs&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=300&layout=compact)](https://github.com/gautamankoji/gautamankoji) 
 --->
 
+
+<!---
 <a href="https://github.com/gautamankoji/gautamankoji">
-  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&card_width=850" />
+--->
+
+<img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&card_width=850" />
+
+<!---
 </a>
- 
+ --->
  &nbsp;
 
 <a href="https://github.com/gautamankoji/gautamankoji">
