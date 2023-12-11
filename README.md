@@ -34,12 +34,12 @@
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
 
 <!-- GitHub Stats and Streak -->
-| <p align="center" style="font-size: 14px;">STATS</p> | <p align="center" style="font-size: 14px;">STREAK</p> |
+| **STATS** | **STREAK** |
 | :--- | :--- |
 | <a href="http://www.github.com/gautamankoji"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gautamankoji&show_icons=true&hide=&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&show_icons=true" height="100%" width="100%"/></a> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamankoji&stroke=ffffff&background=00000000&ring=63ffd1&fire=63ffd1&currStreakNum=ffffff&currStreakLabel=63ffd1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Gautam Streak" height="100%" width="100%"/> |
-| <p align="center" style="font-size: 14px;">**RESOURCES**</p> | <p align="center" style="font-size: 14px;">**WEB/MOBILE**</p> |
+| **RESOURCES** | **WEB/MOBILE** |
 | <a href="https://github.com/gautamankoji/Compi-Prog"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamankoji&repo=Compi-Prog&show_icons=true&hide=&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&show_icons=true" height="100%" width="100%"/></a> | <a href="https://github.com/gautamankoji/static-web-pages"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamankoji&repo=static-web-pages&show_icons=true&hide=&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&show_icons=true" height="100%" width="100%"/></a> |
-| <p align="center" style="font-size: 14px;">**LEETCODE**</p> | <p align="center" style="font-size: 14px;">**OTHERS**</p> |
+| **LEETCODE** | **OTHERS** |
 | <a href="https://leetcode.com/gautamankoji" target="_blank"><img align="top" height="100%" width="100%" src="https://leetcard.jacoblin.cool/gautamankoji?ext=contest&width=850&height=400&&font=source_code_pro" /></a> | <a href="https://leetcode.com/gautamankoji" target="_blank"><img align="top" height="100%" width="100%" src="https://leetcard.jacoblin.cool/gautamankoji?ext=heatmap&width=850&height=400&&font=source_code_pro" /></a> |
 
 <!-- Line Break -->
