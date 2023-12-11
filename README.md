@@ -28,7 +28,7 @@
   **Full stack Development** | **Ethical Hacking** | **Compitative Programming** | **Astrophysics** | **Designing and Editing** | **Game Development**
 - 🌱 I’m currently learning how to identify vulnerabilities using **Burp Suite** and **Wireshark**.
 - 💞️ I’m looking to collaborate on **design and development**.
-- - 📫 How to reach me -> [**telegram/Gautam Ankoji**](https://t.me/herogautam)
+- 📫 How to reach me -> [**telegram/Gautam Ankoji**](https://t.me/herogautam)
 
 <!-- Line Break -->
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
