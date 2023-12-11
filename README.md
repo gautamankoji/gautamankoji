@@ -23,7 +23,7 @@
 </p>
 
 <!-- Introduction and Information -->
-- 👋 Hi, I’m @gautamankoji
+- 👋 Hi, I’m **Gautam Ankoji**
 - 👀 I’m interested in <br/>
   Full stack Development | Ethical Hacking | Compitative Programming | Astrophysics | Designing and Editing | Game Development
 - 🌱 I’m currently learning how to identify vulnerabilities using Burp Suite and Wireshark.
