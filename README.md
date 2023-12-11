@@ -8,21 +8,21 @@
 
 <!-- Social Media Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" src="./linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" src="./assets/icons/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" src="./telegram.svg"></a>
+  <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" src="./assets/icons/telegram.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest"src="./pinterest.svg"/></a>
+  <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest"src="./assets/icons/pinterest.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dribbble.com/gautamankoji"><img width="32px" alt="Dribbble" title="Dribbble" src="./dribbble.svg"/></a>
+  <a href="https://dribbble.com/gautamankoji"><img width="32px" alt="Dribbble" title="Dribbble" src="./assets/icons/dribbble.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/Her0_Gautam"><img width="32px" alt="Reddit" title="Reddit" src="./reddit.svg"/></a>
+  <a href="https://www.reddit.com/user/Her0_Gautam"><img width="32px" alt="Reddit" title="Reddit" src="./assets/icons/reddit.svg"/></a>
 </p>
 
 <!-- Introduction and Information -->
 - 👋 Hi, I’m @gautamankoji
-- 👀 I’m interested in <br/>
-  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Full stack Development | Ethical Hacking | Compitative Programming | Astrophysics | Designing and Editing | Game Development | Gaming
+- 👀 I’m interested in 
+  Full stack Development | Ethical Hacking | Compitative Programming | Astrophysics | Designing and Editing | Game Development | Gaming
 - 🌱 I’m currently learning how to identify vulnerabilities using Burp Suite and Wireshark.
 - 💞️ I’m looking to collaborate on cybersecurity projects and initiatives.
 - 📫 How to reach me -> [telegram/Gautam Ankoji](https://t.me/herogautam)
