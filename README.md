@@ -9,6 +9,8 @@
 
 <br/>
 
+<br/>
+
 <!-- Social Media Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" src="./assets/icons/linkedin.svg"/></a>
