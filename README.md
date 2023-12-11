@@ -17,7 +17,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest"src="./assets/icons/pinterest.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dribbble.com/gautamankoji"><img width="32px" alt="Dribbble" title="Dribbble" src="./assets/icons/dribbble.svg"/></a>
+  <a href="https://dribbble.com/gautamankoji/about"><img width="32px" alt="Dribbble" title="Dribbble" src="./assets/icons/dribbble.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.reddit.com/user/Her0_Gautam"><img width="32px" alt="Reddit" title="Reddit" src="./assets/icons/reddit.svg"/></a>
 </p>
