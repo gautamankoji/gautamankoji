@@ -1,70 +1,50 @@
+<!-- GitHub Header Image -->
+<img align="center" src="https://camo.githubusercontent.com/13c7ba5bf2a6bd0394ea9706f92a3ad4c4e01c6b6b33e7c50ae96e783f269a6c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d686561646572" alt="GitHub header" width="100%"/>
+
+<!-- Typing Animation with Link to Portfolio -->
+<a href="https://gautamankoji.portfolio">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=I'm+Gautam+Ankoji!;Astrophile!;Competitive+Programmer!;Graphic%2FUI%2FUX+Designer!" alt="Typing SVG" />
+</a>
+
+<!-- Social Media Icons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" src="./linkedin.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" src="./telegram.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest"src="./pinterest.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dribbble.com/gautamankoji"><img width="32px" alt="Dribbble" title="Dribbble" src="./dribbble.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.reddit.com/user/Her0_Gautam"><img width="32px" alt="Reddit" title="Reddit" src="./reddit.svg"/></a>
+</p>
+
+<!-- Introduction and Information -->
 - 👋 Hi, I’m @gautamankoji
-- 👀 I’m interested in 
-  Full stack Development | Ethical Hacking | Compitative Programming | Astrophysics | Designing and Editing | Game Development | Gaming
+- 👀 I’m interested in <br/>
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287; Full stack Development | Ethical Hacking | Compitative Programming | Astrophysics | Designing and Editing | Game Development | Gaming
 - 🌱 I’m currently learning how to identify vulnerabilities using Burp Suite and Wireshark.
 - 💞️ I’m looking to collaborate on cybersecurity projects and initiatives.
 - 📫 How to reach me -> [telegram/Gautam Ankoji](https://t.me/herogautam)
 
-<br>
-<hr>
+<!-- Line Break -->
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
 
-<!---
-[![Gautam's GitHub stats](https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=500)](https://github.com/gautamankoji/gautamankoji) 
+<!-- GitHub Stats and Streak -->
+| **STATS** | **STREAK** |
+| :--- | :--- |
+| <a href="http://www.github.com/gautamankoji"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gautamankoji&show_icons=true&hide=&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&show_icons=true" height="100%" width="100%"/></a> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamankoji&stroke=ffffff&background=00000000&ring=63ffd1&fire=63ffd1&currStreakNum=ffffff&currStreakLabel=63ffd1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Gautam Streak" height="100%" width="100%"/> |
+| **RESOURCES** | **WEB/MOBILE** |
+| <a href="https://github.com/gautamankoji/Compi-Prog"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamankoji&repo=Compi-Prog&show_icons=true&hide=&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&show_icons=true" height="100%" width="100%"/></a> | <a href="https://github.com/gautamankoji/static-web-pages"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamankoji&repo=static-web-pages&show_icons=true&hide=&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&show_icons=true" height="100%" width="100%"/></a> |
+| **LEETCODE** | **OTHERS** |
+| <a href="https://leetcode.com/gautamankoji" target="_blank"><img align="top" height="100%" width="100%" src="https://leetcard.jacoblin.cool/gautamankoji?ext=contest&width=850&height=400&&font=source_code_pro" /></a> | <a href="https://leetcode.com/gautamankoji" target="_blank"><img align="top" height="100%" width="100%" src="https://leetcard.jacoblin.cool/gautamankoji?ext=heatmap&width=850&height=400&&font=source_code_pro" /></a> |
 
-<br>
+<!-- Line Break -->
+<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
 
-[![Gautam's GitHub stats](https://github-readme-stats2-v2p1.vercel.app/api/top-langs/?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=500&langs_count=15)](https://github.com/gautamankoji/gautamankoji) 
+<!-- GitHub Footer Image -->
+<img src="https://camo.githubusercontent.com/ee695eb6b020d1e13dfd05221a435a765345ec7cf3adaae2e3181091fe50f0de/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d666f6f746572" alt="GitHub footer" width="100%"/>
 
-<br>
-
-[![Gautam's GitHub stats](https://github-readme-stats2-v2p1.vercel.app/api/wakatime?username=ffflabs&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=300&layout=compact)](https://github.com/gautamankoji/gautamankoji) 
---->
-
-
-<!---
-<a href="https://github.com/gautamankoji/gautamankoji">
---->
-
-<img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&card_width=850" />
-
-<!---
-</a>
- --->
- &nbsp;
-
-<a href="https://github.com/gautamankoji/gautamankoji">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gautamankoji&background=00000000&currStreakNum=41BB84&sideNums=41BB84&dates=BBBBBB&excludeDaysLabel=41BB84&sideLabels=41BB84&ring=41BB84&stroke=41BB84&currStreakLabel=41BB84&fire=41BB84&border_radius=40&card_width=850" /></p>
-</a>
-
- &nbsp;
-
-<a href="https://github.com/gautamankoji/gautamankoji">
-  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/top-langs/?username=gautamankoji&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=850&langs_count=15" />
-</a>
-
- &nbsp;
-
-<a href="https://github.com/gautamankoji/Compi-Prog">
-  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/pin/?username=gautamankoji&repo=Compi-Prog&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=400" />
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-</a>
-
-
-
-<a href="https://github.com/gautamankoji/static-web-pages">
-  <img align="top" src="https://github-readme-stats2-v2p1.vercel.app/api/pin/?username=gautamankoji&repo=static-web-pages&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=76effe&border_radius=40&hide=prs,issues,stars&card_width=400" />
-</a>
-
-<br>
-<hr>
-
-### [Leetcode](https://leetcode.com/gautamankoji)
-
-<a href="https://leetcode.com/gautamankoji" target="_blank">
-  <img align="top" src="https://leetcard.jacoblin.cool/gautamankoji?ext=contest&border_radius=40&width=850&font=source_code_pro" />
-</a>
-     &nbsp;
-<hr>
 
 
 
