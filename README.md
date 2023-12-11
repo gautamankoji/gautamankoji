@@ -11,15 +11,17 @@
 
 <!-- Social Media Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" src="./assets/icons/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" target="_blank" src="./assets/icons/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" src="./assets/icons/telegram.svg"></a>
+  <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" target="_blank" src="./assets/icons/telegram.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest"src="./assets/icons/pinterest.svg"/></a>
+  <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest" target="_blank"src="./assets/icons/pinterest.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dribbble.com/gautamankoji/"><img width="32px" alt="Dribbble" title="Dribbble" src="./assets/icons/dribbble.svg"/></a>
+  <!-- <a href="https://dribbble.com/gautamankoji/"><img width="32px" alt="Dribbble" title="Dribbble" target="_blank" src="./assets/icons/dribbble.svg"/></a> -->
+  <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <a href="https://hashnode.com/@gautamankoji/"><img width="32px" alt="Hashnode" title="Hashnode" target="_blank" src="./assets/icons/hashnode.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/Her0_Gautam/"><img width="32px" alt="Reddit" title="Reddit" src="./assets/icons/reddit.svg"/></a>
+  <a href="https://www.reddit.com/user/Her0_Gautam/"><img width="32px" alt="Reddit" title="Reddit" target="_blank" src="./assets/icons/reddit.svg"/></a>
 </p>
 
 <!-- Introduction and Information -->
