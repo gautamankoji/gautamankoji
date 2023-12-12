@@ -4,7 +4,7 @@
 
 <!-- Typing Animation with Link to Portfolio -->
 <a href="http://www.github.com/gautamankoji">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=I'm+Gautam+Ankoji!;Astrophile!;Competitive+Programmer!;Graphic%2FUI%2FUX+Designer!" alt="Typing SVG" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=I'm+Gautam+Ankoji!;Astrophile!;Competitive+Programmer!;Graphic%2FUI%2FUX+Designer!;White+Hat+Hacker" alt="Typing SVG" />
 </a>
 
 <br/>
