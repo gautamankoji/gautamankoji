@@ -11,7 +11,7 @@
 
 <!-- Social Media Icons -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" target="_blank" src="./assets/icons/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" target="_blank" src="./assets/icons/telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" target="_blank" src="./assets/icons/telegram.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
