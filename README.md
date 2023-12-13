@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/telegram-app.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest" target="_blank"src="./assets/icons/pinterest.svg"/></a>
+  <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest" target="_blank"src="https://img.icons8.com/ios-filled/50/50cca0/pinterest.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <a href="https://dribbble.com/gautamankoji/"><img width="32px" alt="Dribbble" title="Dribbble" target="_blank" src="./assets/icons/dribbble.svg"/></a> -->
   <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
