@@ -21,7 +21,7 @@
   <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://hashnode.com/@gautamankoji/"><img width="32px" alt="Hashnode" title="Hashnode" target="_blank" src="./assets/icons/hashnode.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.reddit.com/user/Her0_Gautam/"><img width="32px" alt="Reddit" title="Reddit" target="_blank" src="./assets/icons/reddit.svg"/></a>
+  <a href="https://www.reddit.com/user/Her0_Gautam/"><img width="32px" alt="Reddit" title="Reddit" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/reddit.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=gautamankoji@gmail.com/"><img width="32px" alt="Gmail" title="Gmail" target="_blank" src="./assets/icons/gmail.svg"/></a>
 </p>
