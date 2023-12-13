@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" target="_blank" src="./assets/icons/telegram.svg"></a>
+  <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/telegram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest" target="_blank"src="./assets/icons/pinterest.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
