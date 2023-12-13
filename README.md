@@ -19,7 +19,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <a href="https://dribbble.com/gautamankoji/"><img width="32px" alt="Dribbble" title="Dribbble" target="_blank" src="https://img.icons8.com/material-rounded/24/50cca0/dribbble.png"/></a> -->
   <!-- &#8287;&#8287;&#8287;&#8287;&#8287; -->
-  <a href="https://hashnode.com/@gautamankoji/"><img width="32px" alt="Hashnode" title="Hashnode" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/hashnode.png"/></a>
+  <a href="https://hashnode.com/@gautamankoji/"><img width="32px" alt="Hashnode" title="Hashnode" target="_blank" src="http://www.w3.org/2000/svg/50/50cca0/"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.reddit.com/user/Her0_Gautam/"><img width="32px" alt="Reddit" title="Reddit" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/reddit.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
