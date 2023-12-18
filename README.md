@@ -59,7 +59,7 @@
 <!---
 Will add more stuff here later!
 gautamankoji/gautamankoji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes
 
 &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
 
