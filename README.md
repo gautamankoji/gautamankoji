@@ -35,7 +35,7 @@
 <!-- Introduction and Information -->
 ⦿ &#8287; Hi, I’m **Gautam Ankoji** <br/>
 ⦿ &#8287; I’m interested in <br/>
-   &#8287;&#8287;&#8287;&#8287; **`Full stack Development`** | **`Ethical Hacking`** | **`Compitative Programming`** | **`Astrophysics`** | **`Designing and Editing`** | **`Game Development`** <br/>
+   **`Full stack Development`** | **`Ethical Hacking`** | **`Compitative Programming`** | **`Astrophysics`** | **`Designing and Editing`** | **`Game Development`** <br/>
 ⦿ &#8287; I’m currently learning how to identify vulnerabilities using **Burp Suite** and **Wireshark**. <br/>
 ⦿ &#8287; I’m looking to collaborate on **design and development**. <br/>
 ⦿ &#8287; How to reach me -> [**telegram/Gautam_Ankoji**](https://t.me/herogautam) <br/>
