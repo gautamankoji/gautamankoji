@@ -32,8 +32,6 @@
 
 </div>
 
-<br/>
-
 <!-- Introduction and Information -->
 -  Hi, I’m **Gautam Ankoji**
 -  I’m interested in <br/>
