@@ -59,9 +59,6 @@
 <a href="http://www.github.com/gautamankoji"><img src="https://camo.githubusercontent.com/ee695eb6b020d1e13dfd05221a435a765345ec7cf3adaae2e3181091fe50f0de/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d666f6f746572" alt="GitHub footer" width="100%"/><a/>
 
 
-
-
-
 <!---
 Will add more stuff here later!
 gautamankoji/gautamankoji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
