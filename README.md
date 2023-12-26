@@ -2,7 +2,7 @@
 <a href="http://www.github.com/gautamankoji">
 <img align="center" src="https://camo.githubusercontent.com/13c7ba5bf2a6bd0394ea9706f92a3ad4c4e01c6b6b33e7c50ae96e783f269a6c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d686561646572" alt="GitHub header" width="100%"/><a/>
 
-<!-- Typing Animation with Link to Portfolio --> 
+<!-- Typing Animation with Link to Portfolio -->
 <a href="http://www.github.com/gautamankoji">
   <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=I'm+Gautam+Ankoji!;Astrophile!;Competitive+Programmer!;Graphic%2FUI%2FUX+Designer!;White+Hat+Hacker" alt="Typing SVG" />
 </a>
