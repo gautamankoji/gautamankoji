@@ -44,20 +44,6 @@
 ⦿ &#8287;I’m looking to collaborate on **design and development**. <br/>
 ⦿ &#8287;How to reach me -> [**telegram/Gautam_Ankoji**](https://t.me/herogautam) <br/>
 
-<div style="font-family: 'Comfortaa', sans-serif;">
-
-<!-- Introduction and Information -->
-    ⦿ &#8287;Hi, I’m <strong>Gautam Ankoji</strong> <br/>
-    ⦿ &#8287;I’m interested in <br/>
-    <strong>`Full stack Development`</strong> | <strong>`Ethical Hacking`</strong> | <strong>`Compitative Programming`</strong> | <strong>`Astrophysics`</strong> | <strong>`Designing and Editing`</strong> | <strong>`Game Development`</strong> <br/>
-    ⦿ &#8287;I’m currently learning how to identify vulnerabilities using <strong>Burp Suite</strong> and <strong>Wireshark</strong>. <br/>
-    ⦿ &#8287;I’m looking to collaborate on <strong>design and development</strong>. <br/>
-    ⦿ &#8287;How to reach me -> <a href="https://t.me/herogautam" target="_blank"><strong>telegram/Gautam_Ankoji</strong></a> <br/>
-
-</div>
-
-<br/>
-
 
 <!-- Line Break -->
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
