@@ -46,7 +46,7 @@
 
 <div style="font-family: 'Comfortaa', sans-serif;">
 
-    <!-- Introduction and Information -->
+<!-- Introduction and Information -->
     ⦿ &#8287;Hi, I’m <strong>Gautam Ankoji</strong> <br/>
     ⦿ &#8287;I’m interested in <br/>
     <strong>`Full stack Development`</strong> | <strong>`Ethical Hacking`</strong> | <strong>`Compitative Programming`</strong> | <strong>`Astrophysics`</strong> | <strong>`Designing and Editing`</strong> | <strong>`Game Development`</strong> <br/>
