@@ -1,6 +1,6 @@
 <!-- GitHub Header Image -->
 <a href="http://www.github.com/gautamankoji">
-<img align="center" src="https://camo.githubusercontent.com/13c7ba5bf2a6bd0394ea9706f92a3ad4c4e01c6b6b33e7c50ae96e783f269a6c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d686561646572" alt="GitHub header" width="100%"/><a/>
+<img align="center" src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/header.svg" alt="GitHub header" width="100%"/><a/>
 
 <!-- Typing Animation with Link to Portfolio -->
 <a href="http://www.github.com/gautamankoji">
@@ -62,7 +62,7 @@
 <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
 
 <!-- GitHub Footer Image -->
-<a href="http://www.github.com/gautamankoji"><img src="https://camo.githubusercontent.com/ee695eb6b020d1e13dfd05221a435a765345ec7cf3adaae2e3181091fe50f0de/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d336461333761266865696768743d3132302673656374696f6e3d666f6f746572" alt="GitHub footer" width="100%"/><a/>
+<a href="http://www.github.com/gautamankoji"><img src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/footer.svg" alt="GitHub footer" width="100%"/><a/>
 
 
 
