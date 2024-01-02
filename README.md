@@ -1,6 +1,6 @@
 <!-- GitHub Header Image -->
 <a href="http://www.github.com/gautamankoji">
-<img align="center" src="https://raw.githubcontent.com/gautamankoji/gautamankoji/master/images/header.svg" alt="GitHub header" width="100%"/><a/>
+<img align="center" src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/header.svg" alt="GitHub header" width="100%"/><a/>
 
 <!-- Typing Animation with Link to Portfolio -->
 <a href="http://www.github.com/gautamankoji">
