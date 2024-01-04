@@ -27,13 +27,14 @@
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=gautamankoji@gmail.com/"><img width="32px" alt="Gmail" title="Gmail" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/gmail-new.png"/></a>
 </p>
 
-<a href="http://www.github.com/gautamankoji">
-  
-<div align="center">
-  
+<!-- Github Profile Counter -->
+<a href="http://www.github.com/gautamankoji"> 
+
+  <div align="center">
+
 ![](https://komarev.com/ghpvc/?username=gautamankoji&style=flat&color=50CCA0)
 
-</div>
+</div> 
 
 </a>
 
