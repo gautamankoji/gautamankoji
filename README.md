@@ -21,7 +21,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest" target="_blank"src="https://img.icons8.com/ios-filled/50/50cca0/pinterest.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dribbble.com/gautamankoji/"><img width="32px" alt="Dribbble" title="Dribbble" target="_blank" src="https://img.icons8.com/material-rounded/24/50cca0/dribbble.png"/></a>
+  <a href="https://dribbble.com/gautamankoji/"><img width="32px" alt="Dribbble" title="Dribbble" target="_blank" src="https://img.icons8.com/material-rounded/24/50CCA0/dribbble.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="https://hashnode.com/@gautamankoji/"><img width="32px" alt="Hashnode" title="Hashnode" target="_blank" src="https://img.icons8.com/color/48/000000/hashnode.png"/></a> -->
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
