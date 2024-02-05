@@ -16,14 +16,14 @@
 <!-- Social Media Icons -->
 <p align="center">
 <!--   <a href="https://www.linkedin.com/in/gautamankoji/"><img width="32px" alt="Linkedin" title="Linkedin" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/linkedin.png"/></a> -->
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/telegram-app.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://in.pinterest.com/herogautam/"><img width="32px" alt="Pinterest" title="Pinterest" target="_blank"src="https://img.icons8.com/ios-filled/50/50cca0/pinterest.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dribbble.com/gautamankoji/"><img width="32px" alt="Dribbble" title="Dribbble" target="_blank" src="https://img.icons8.com/material-rounded/50/50CCA0/dribbble.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href="https://hashnode.com/@gautamankoji/"><img width="32px" alt="Hashnode" title="Hashnode" target="_blank" src="https://img.icons8.com/color/48/000000/hashnode.png"/></a> -->
+<!--   <a href="https://hashnode.com/@gautamankoji/"><img width="32px" alt="Hashnode" title="Hashnode" target="_blank" src="https://img.icons8.com/color/50/50CCA0/hashnode.png"/></a> -->
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287; -->
   <a href="https://www.reddit.com/user/Her0_Gautam/"><img width="32px" alt="Reddit" title="Reddit" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/reddit.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
