@@ -58,6 +58,8 @@
 | **STATS** | **STREAK** |
 | :--- | :--- |
 | <a href="http://www.github.com/gautamankoji"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gautamankoji&show_icons=true&hide=&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&show_icons=true" height="100%" width="100%"/></a> | <a href="http://www.github.com/gautamankoji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamankoji&stroke=ffffff&background=00000000&ring=63ffd1&fire=63ffd1&currStreakNum=ffffff&currStreakLabel=63ffd1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Gautam Streak" height="100%" width="100%"/></a> |
+
+<!--
 | **RESOURCES** | **WEB/MOBILE** |
 | <a href="https://github.com/gautamankoji/Compi-Prog"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamankoji&repo=Compi-Prog&show_icons=true&hide=&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&show_icons=true" height="100%" width="100%"/></a> | <a href="https://github.com/gautamankoji/static-web-pages"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=gautamankoji&repo=static-web-pages&show_icons=true&hide=&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&show_icons=true" height="100%" width="100%"/></a> |
 <!-- | **LEETCODE** | **OTHERS** | -->
