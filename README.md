@@ -33,9 +33,11 @@
 <!-- Github Profile Counter -->
 <a href="http://www.github.com/gautamankoji"> 
 
-  <div align="center">
+  <div align="center" >
 
-  ![](https://komarev.com/ghpvc/?username=gautamankoji&style=flat-square&color=50CCA0)
+  <img  src="https://komarev.com/ghpvc/?username=gautamankoji&style=flat-square&color=50CCA0" />
+
+  <!-- ![](https://komarev.com/ghpvc/?username=gautamankoji&style=flat-square&color=50CCA0) -->
 
 </div> 
 
