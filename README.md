@@ -35,7 +35,7 @@
 
   <div align="center" >
 
-  <img  src="https://komarev.com/ghpvc/?username=gautamankoji&style=flat&color=50CCA0" />
+  <img  src="https://komarev.com/ghpvc/?username=gautamankoji&style=flat&color=2e9876" />
 
   <!-- ![](https://komarev.com/ghpvc/?username=gautamankoji&style=flat-square&color=50CCA0) -->
 
