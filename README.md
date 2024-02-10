@@ -35,7 +35,7 @@
 
   <div align="center">
 
-![](https://komarev.com/ghpvc/?username=gautamankoji&style=flat&color=50CCA0)
+  ![](https://komarev.com/ghpvc/?username=gautamankoji&style=flat-square&color=50CCA0)
 
 </div> 
 
