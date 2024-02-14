@@ -54,7 +54,9 @@
 
 
 <!-- Line Break -->
-<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
+<a href="http://www.github.com/gautamankoji">
+  <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
+</a>
 
 <!-- GitHub Stats and Streak -->
 | **STATS** | **STREAK** |
@@ -68,7 +70,9 @@
 <!-- | <a href="https://leetcode.com/gautamankoji" target="_blank"><img align="top" height="100%" width="100%" src="https://leetcard.jacoblin.cool/gautamankoji?ext=contest&width=850&height=400&&font=source_code_pro" /></a> | <a href="https://leetcode.com/gautamankoji" target="_blank"><img align="top" height="100%" width="100%" src="https://leetcard.jacoblin.cool/gautamankoji?ext=heatmap&width=850&height=400&&font=source_code_pro" /></a> | -->
 
 <!-- Line Break -->
-<p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
+<a href="http://www.github.com/gautamankoji">
+  <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=63ffd1&height=1.5' width="100%"/></p>
+</a>
 
 <!-- GitHub Footer Image -->
 <a href="http://www.github.com/gautamankoji"><img src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/footer.svg" alt="GitHub footer" width="100%"/><a/>
