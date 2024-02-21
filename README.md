@@ -47,7 +47,7 @@
 <!-- Introduction and Information -->
 ⦿ &#8287;Hi, I’m **Gautam Ankoji** <br/>
 ⦿ &#8287;I’m interested in <div align="center">
-  **`Full stack Development`** | **`Ethical Hacking`** | **`Compitative Programming`** | **`Astrophysics`** | **`Designing and Editing`** | **`Game Development`** </div>
+  **`Full stack Development`** | **`Compitative Programming`** | **`Ethical Hacking`** | **`Astrophysics`** | **`Designing and Editing`** | **`Game Development`** </div>
   
 ⦿ &#8287;I’m currently learning how to identify vulnerabilities using **Burp Suite** and **Wireshark**. <br/>
 ⦿ &#8287;I’m looking to collaborate on **design and development**. <br/>
