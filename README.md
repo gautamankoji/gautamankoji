@@ -51,7 +51,7 @@
   
 ⦿ &#8287;I’m currently learning how to identify vulnerabilities using **Burp Suite** and **Wireshark**. <br/>
 ⦿ &#8287;I’m looking to collaborate on **design and development**. <br/>
-⦿ &#8287;How to reach me -> [**telegram/Gautam_Ankoji**](https://t.me/herogautam) <br/>
+⦿ &#8287;How to reach me -> [**telegram/gautamankoji**](https://t.me/herogautam) <br/>
 
 
 <!-- Line Break -->
