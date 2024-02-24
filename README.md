@@ -35,14 +35,13 @@
 
   <div align="center" >
 
-  <img  src="https://komarev.com/ghpvc/?username=gautamankoji&label=PROFILE+VIEWS&color=2e9876" />
+  <img  src="https://komarev.com/ghpvc/?username=gautamankoji&label=PROFILE+VIEWS&color=2e9876&icon=0;" />
 
   <!-- ![](https://komarev.com/ghpvc/?username=gautamankoji&style=flat-square&color=50CCA0) -->
 
 </div> 
 
 </a>
-
 
 <!-- Introduction and Information -->
 ⦿ &#8287;Hi, I’m **Gautam Ankoji** <br/>
