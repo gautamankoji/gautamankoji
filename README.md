@@ -31,7 +31,7 @@
 <!-- Github Profile Visits Counter -->
 <a href="http://www.github.com/gautamankoji">
   <div align="center" >
-    <img  src="https://komarev.com/ghpvc/?username=gautamankoji&label=PROFILE+VIEWS&color=2e9876&icon=0;" />
+    <img  src="https://komarev.com/ghpvc/?username=gautamankoji&label=+PROFILE+VIEWS+&color=2e9876" />
   </div>
 </a>
 
