@@ -45,7 +45,7 @@
 
 <!-- Introduction and Information -->
 ⦿ &#8287;Hi, I’m **Gautam Ankoji** <br/>
-⦿ &#8287;Tech-savvy Developer & Designer | Crafting Sleek Websites & Apps for Android/iOS <br/>
+⦿ &#8287;Tech-savvy **Developer & Designer** | Crafting Sleek **Websites & Apps for Android/iOS** <br/>
 ⦿ &#8287;I’m interested in <div align="center">
   **`Full stack Development`** | **`Compitative Programming`** | **`Ethical Hacking`** | **`Designing and Editing`** | **`Astrophysics`** | **`Game Development`** </div>
   
