@@ -50,6 +50,18 @@
 ⦿ &#8287;I’m looking to collaborate on **design and development**. </br>
 ⦿ &#8287;How to reach me ⟶ [**telegram/gautamankoji**](https://t.me/herogautam) </br>
 
+<!-- Introduction and Information -->
+<p>⦿ &#8287;Hi, I’m <strong>Gautam Ankoji</strong> </p>
+<p>⦿ &#8287;I’m interested in</p>
+
+<div align="center">
+  <strong>`Full stack Development`</strong> | <strong>`Compitative Programming`</strong> | <strong>`Ethical Hacking`</strong> | <strong>`Designing and Editing`</strong> | <strong>`Astrophysics`</strong> | <strong>`Game Development`</strong>
+</div>
+
+<p>⦿ &#8287;I’m currently learning how to identify vulnerabilities using <strong>Burp Suite</strong> and <strong>Wireshark</strong>. </p>
+<p>⦿ &#8287;I’m looking to collaborate on <strong>design and development</strong>. </p>
+<p>⦿ &#8287;How to reach me ⟶ <a href="https://t.me/herogautam" target="_blank"><strong>telegram/gautamankoji</strong></a> </p>
+
 
 <!-- Line Break -->
 <a href="http://www.github.com/gautamankoji">
