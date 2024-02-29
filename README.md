@@ -40,11 +40,11 @@
 ⦿ &#8287;Hi, I’m **Gautam Ankoji** </br>
 ⦿ &#8287;I’m interested in
 
-<sapn align="center">
+<div align="center">
   
   **`Full stack Development`** | **`Compitative Programming`** | **`Ethical Hacking`** | **`Designing and Editing`** | **`Astrophysics`** | **`Game Development`** 
 
-</span>
+</div>
 
 ⦿ &#8287;I’m currently learning how to identify vulnerabilities using **Burp Suite** and **Wireshark**. </br>
 ⦿ &#8287;I’m looking to collaborate on **design and development**. </br>
