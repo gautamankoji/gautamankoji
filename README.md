@@ -48,25 +48,7 @@
 
 ⦿ &#8287;I’m currently learning how to identify vulnerabilities using **Burp Suite** and **Wireshark**. </br>
 ⦿ &#8287;I’m looking to collaborate on **design and development**. </br>
-⦿ &#8287;How to reach me ⟶ [**telegram/gautamankoji**](https://t.me/herogautam) </br>
-
-<!-- Introduction and Information -->
-<p>⦿ &#8287;Hi, I’m <code>Gautam Ankoji</code><br>
-⦿ &#8287;I’m interested in
-
-<div align="center">
-  <p><code>Full stack Development</code> | <code>Compitative Programming</code> | <code>Ethical Hacking</code> | <code>Designing and Editing</code> | <code>Astrophysics</code> | <code>Game Development</code></p>
-</div>
-
-⦿ &#8287;I’m currently learning how to identify vulnerabilities using <code>Burp Suite</code> and <code>Wireshark</code>.<br>
-⦿ &#8287;I’m looking to collaborate on <code>design and development</code>.<br>
-⦿ &#8287;How to reach me ⟶ <a href="https://t.me/herogautam" target="_blank"><code>telegram/gautamankoji</code></a></p>
-
-
-<p>⦿ &#8287;I’m currently learning how to identify vulnerabilities using <strong>Burp Suite</strong> and <strong>Wireshark</strong>. </p>
-<p>⦿ &#8287;I’m looking to collaborate on <strong>design and development</strong>. </p>
-<p>⦿ &#8287;How to reach me ⟶ <a href="https://t.me/herogautam" target="_blank"><strong>telegram/gautamankoji</strong></a> </p>
-
+⦿ &#8287;How to reach me ⟶ [**telegram/gautamankoji**](https://t.me/herogautam) </br> 
 
 <!-- Line Break -->
 <a href="http://www.github.com/gautamankoji">
