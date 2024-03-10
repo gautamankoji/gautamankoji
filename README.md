@@ -38,7 +38,7 @@
 
 <!-- Introduction and Information -->
 ⦿ &#8287;Hi, I’m **Gautam Ankoji** </br>
-⦿ &#8287;I’m interested in
+⦿ &#8287;I have expertise in:
 
 <div align="center">
   
