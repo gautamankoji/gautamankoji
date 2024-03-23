@@ -15,6 +15,7 @@
 
 
 <!-- Social Media Icons -->
+<!--
 <p align="center">
   <a href="https://t.me/herogautam"><img width="32px" alt="Telegram" title="Telegram" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/telegram-app.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -26,7 +27,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=gautamankoji@gmail.com/"><img width="32px" alt="Gmail" title="Gmail" target="_blank" src="https://img.icons8.com/ios-filled/50/50cca0/gmail-new.png"/></a>
 </p>
-
+-->
 
 <!-- Github Profile Visits Counter -->
 <a href="http://www.github.com/gautamankoji">
