@@ -43,7 +43,7 @@
 
 <div align="center">
   
-  **`Astrophysics`** | **`Full stack Development`** | **`Compitative Programming`** | **`Ethical Hacking`** | **`Designing and Editing`** | **`Game Development`** 
+  **`Astrophysics`** | **`Full stack Development`** | **`Compitative Programming`** | **`Penetration Testing`** | **`Designing and Editing`** | **`Game Development`** 
 
 </div>
 
