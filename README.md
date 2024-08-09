@@ -7,7 +7,8 @@
 
 <!-- Typing Animation with Link to Portfolio -->
 <a href="http://www.github.com/gautamankoji">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=I'm,+Gautam+Ankoji;Astrophile!;Competitive+Programmer!;Graphic%2FUI%2FUX+Designer!;I+Love+To+Code!" alt="Human" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=I'm,+Gautam+Ankoji;Astrophile!;Competitive+Programmer!;Graphic+Designer!;I code algorithms!!" alt="Human" />
+  <!-- <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=I'm,+Gautam+Ankoji;Astrophile!;Competitive+Programmer!;Graphic%2FUI%2FUX+Designer!;I+Love+To+Code!" alt="Human" /> -->
 </a>
 <br>
 
@@ -39,11 +40,12 @@
 
 <div align="center">
   
-  **`Astrophysics`** | **`Full Stack Development`** | **`Competitive Programming`** | **`Pen Testing`** | **`Designing and Editing`** | **`Game Development`**
+  **`Astrophysics`** | **`Full Cycle development`** | **`Competitive Programming`** | **`Pen Testing`** | **`Graphic Designing`** | **`Game Development`**
 
 </div>
 
-⦿ &#8287;I’m currently learning how to identify vulnerabilities using **Burp Suite** and **Wireshark**.<br>
+⦿ &#8287;I build **distributed backend systems** and design **scalable architectures**.<br>
+⦿ &#8287;I design **clean**, **functional UIs** with a focus on visual appeal and precision.<br>
 ⦿ &#8287;I’m looking to collaborate on **distributed systems and core backend development.**.<br>
 ⦿ &#8287;I’ll make my repos **open source** in 2026.<br>
 ⦿ &#8287;How to reach me ⟶ [**telegram/gautamankoji**](https://t.me/herogautam)<br> 
