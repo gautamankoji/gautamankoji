@@ -30,7 +30,7 @@
 <!-- Github Profile Visits Counter -->
 <a href="http://www.github.com/gautamankoji">
   <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=gautamankoji&label=+PROFILE+VIEWS+&color=2e9876" />
+    <img src="https://komarev.com/ghpvc/?username=gautamankoji&label=+PROFILE+VIEWS+&color=2e9876"/>
   </div>
 </a>
 
@@ -40,15 +40,15 @@
 
 <div align="center">
   
-  **`Astrophysics`** | **`Full Cycle development`** | **`Competitive Programming`** | **`Pen Testing`** | **`Graphic Designing`** | **`Game Development`**
+  **`Astrophysics Research`** | **`Full Cycle Development`** | **`Algorithmic Optimization`** | **`Red Teaming`** | **`Computer Graphics`** | **`Game Engineering`**
 
 </div>
 
-⦿ &#8287;I build **distributed backend systems** and design **scalable architectures**.<br>
-⦿ &#8287;I design **clean**, **functional UIs** with a focus on visual appeal and precision.<br>
-⦿ &#8287;I’m looking to collaborate on **distributed systems and core backend development.**.<br>
-⦿ &#8287;I’ll make my repos **open source** in 2026.<br>
-⦿ &#8287;How to reach me ⟶ [**telegram/gautamankoji**](https://t.me/herogautam)<br> 
+⦿ &#8287; I architect and develop **distributed backend systems** and design **scalable architectures** for optimal performance.<br>
+⦿ &#8287; I specialize in developing **clean**, **functional UIs** that deliver an exceptional user experience and aesthetic appeal.<br>
+⦿ &#8287; I am interested in collaborating on **distributed systems**, **core backend development**, and **deep learning** initiatives.<br>
+⦿ &#8287; I intend to make my repositories **open source** in 2026 to contribute to the community.<br>
+⦿ &#8287; For inquiries, connect with me at ⟶ [**telegram/gautamankoji**](https://t.me/herogautam)<br>
 
 <!-- Line Break -->
 <a href="http://www.github.com/gautamankoji">
@@ -57,8 +57,8 @@
 
 <!-- Github Stats -->
 | **STATS** | **STREAK** |
-| :------: | :------: |
-| <a href="http://www.github.com/gautamankoji"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gautamankoji&show_icons=true&hide=prs,stars&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=00000000&hide_border=true&rank_icon=github" width="100%"/></a> | <a href="http://www.github.com/gautamankoji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamankoji&stroke=ffffff&background=00000000&ring=63ffd1&fire=63ffd1&currStreakNum=ffffff&currStreakLabel=63ffd1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Gautam Streak" width="100%"/></a> |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="http://www.github.com/gautamankoji"><img alt="Gautam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gautamankoji&show_icons=true&hide=prs,stars&count_private=true&title_color=63ffd1&text_color=ffffff&icon_color=63ffd1&bg_color=0d1117&hide_border=true&rank_icon=github" width="100%"/></a> | <a href="http://www.github.com/gautamankoji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamankoji&stroke=ffffff&background=0d1117&ring=63ffd1&fire=63ffd1&currStreakNum=ffffff&currStreakLabel=63ffd1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Gautam Streak" width="100%"/></a> |
 
 <!-- Line Break -->
 <a href="http://www.github.com/gautamankoji">
